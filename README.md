@@ -10,4 +10,4 @@ This is the accompanying repository to the NightUp paper. It contains a notebook
 </p>
 
 
-In the notebook you will find the necessary tools for the Analysis part from the figure above. To know more about NightUp,  you can check our recent paper (DOI link above) or visit the [project's webpage](https://nightup.icfo.eu/desktop).
+The notebook contained in this repository allows to analyse the images collected during the NightUp campaign, locating the streetlights and extracting their color. To know more about NightUp,  you can check our recent paper (DOI link above) or visit the [project's webpage](https://nightup.icfo.eu/desktop).
