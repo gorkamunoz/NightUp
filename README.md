@@ -6,7 +6,7 @@ This is the accompanying repository to the NightUp paper. It contains a notebook
 
 
 
-<img src="C:\Users\Gorka\github\NightUp\night_up_scheme.png" width = 3000 alt="night_up_scheme" style="zoom:25%;" />
+<img src="night_up_scheme.png" width = 700  />
 
 
 
